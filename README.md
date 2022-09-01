@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="josemora.cl" target="_blank" rel="noreferrer">Jose Mora</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Data Enthusiast 💻, Surfer 🏄🏻‍♂️, and animal lover 🐀!
