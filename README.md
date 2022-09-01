@@ -1,16 +1,38 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://josemora.cl" target="_blank" rel="noreferrer">josemora.cl</a>
+</p>
 
-<!--
-**josemoragonzalez/josemoragonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
 
-Here are some ideas to get you started:
+<h2 align="center">
+I'm a Data Enthusiast 💻, Surfer 🏄🏻‍♂️, and animal lover 🐀!
+</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Restaurant Recommendation App (React-Native)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next blog
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- React Context API
+- Styled Components  
+
+## 💼 Technical Skills
