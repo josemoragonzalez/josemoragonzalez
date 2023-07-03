@@ -22,7 +22,7 @@ I love the entire process of developing a new data analysis. I love the challeng
 - Kaggle challenges
 - Datacamp projects
 
-## 🌱 I'm currently learning
+## 🌱 I'm always learning
 
 - Python
 - SQL
